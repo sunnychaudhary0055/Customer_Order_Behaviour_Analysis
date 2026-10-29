@@ -1,14 +1,15 @@
 # Customer & Order Behaviour Analysis
 
-## Dashboard Preview
-
-![Dashboard Screenshot 1](Customer%20Dashboard/Screenshot1.png)
-
-![Dashboard Screenshot 2](Customer%20Dashboard/Screenshot2.png)
-
-![Dashboard Screenshot 3](Customer%20Dashboard/Screenshot3.png)
-
-![Dashboard Screenshot 4](Customer%20Dashboard/Screenshot4.png)
+<table border="0">
+  <tr>
+    <td><img src="Customer%20Dashboard/Screenshot (89).png" width="100%"></td>
+    <td><img src="Customer%20Dashboard/Screenshot (90).png" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="Customer%20Dashboard/Screenshot (91).png" width="100%"></td>
+    <td><img src="Customer%20Dashboard/Screenshot (92).png" width="100%"></td>
+  </tr>
+</table>
 
 ## Project Overview
 This project focuses on analyzing customer and order data to understand order trends, product performance, payment preferences, sales performance, and profitability.
